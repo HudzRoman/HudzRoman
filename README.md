@@ -8,8 +8,9 @@
 <h2>
     I am front-end developer with huge motivation to work in this area.
 </h2>
-
+<img align='left' src="https://i.gifer.com/11tY.gif" width="230">
 <img align='right' src="https://c.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" width="230">
+
 
 
 <a href="https://www.linkedin.com/in/roman-hudz/">
