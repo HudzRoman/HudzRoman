@@ -17,12 +17,16 @@
 
 
 
-
+<br>
+<br>
+<br>
 <a href="https://www.linkedin.com/in/roman-hudz/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-Hudz%20Roman-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
-
+<br>
+<br>
+<br>
 
 <div align='center'>
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
