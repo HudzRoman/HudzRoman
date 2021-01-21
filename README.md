@@ -18,7 +18,7 @@
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
     <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
     <img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/source.gif" width="50">
-    <img style="margin-top: 10px" src="https://stem.one/wp-content/uploads/2020/11/HTML.gif" height="70">
+    <img  src="https://stem.one/wp-content/uploads/2020/11/HTML.gif" height="60">
 </div> 
 
 
