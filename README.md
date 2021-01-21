@@ -5,13 +5,15 @@
     Hi, my name is Roman!
         <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>     
+<br>
 <h3>
     I am front-end developer with huge motivation to work in this area.
 </h3>
 
 
 
-
+<br>
+<br>
 <img align='left' src="https://paugamez.com/wp-content/uploads/2020/05/simpleshow_02-by_paugamez.gif" width="230">
 <img align='right' src="https://pbs.twimg.com/profile_images/1722273338/_____.gif" width="130">
 
