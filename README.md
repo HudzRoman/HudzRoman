@@ -5,7 +5,6 @@
     Hi, my name is Roman!
         <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>     
-<br>
 <h3>
     I am front-end developer with huge motivation to work in this area.
 </h3>
