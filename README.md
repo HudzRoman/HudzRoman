@@ -36,12 +36,10 @@
 </div> 
 
 <div>
-    <h3>
+    <h4>
     Some code
-        <br>
+     </h4>
      follow the links and see more
-</h3> 
-    <br>
     <a href="https://600b9d27bc194ecf92ad7ca0--confident-hodgkin-84f047.netlify.app/">
         Realtime Chat Application React
     </a>
