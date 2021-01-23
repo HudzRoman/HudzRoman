@@ -39,10 +39,10 @@
     <h3>
     Some code
      </h3>
-     follow the links and see more:
+     follow the links and see more:<br>
     <a href="https://600b9d27bc194ecf92ad7ca0--confident-hodgkin-84f047.netlify.app/">
     Realtime Chat Application React
-    </a>
+    </a><br>
      <a href="https://600b9d27bc194ecf92ad7ca0--confident-hodgkin-84f047.netlify.app/">
     Realtime Chat Application React
     </a>
