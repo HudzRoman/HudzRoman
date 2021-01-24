@@ -17,16 +17,11 @@
 <img align='right' src="https://pbs.twimg.com/profile_images/1722273338/_____.gif" width="130">
 
 
-
-<br>
-<br>
 <br>
 <a href="https://www.linkedin.com/in/roman-hudz/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-Hudz%20Roman-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
-<br>
-<br>
 <br>
 
 <div align='center'>
