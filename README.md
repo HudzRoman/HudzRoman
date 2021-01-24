@@ -42,8 +42,9 @@
      follow the links and see more:<br>
     <a href="https://600b9d27bc194ecf92ad7ca0--confident-hodgkin-84f047.netlify.app/">
     Realtime Chat Application React
-    </a><br>
-     <a href="http://h93145dn.beget.tech/index.html">
+    </a>
+    <br>
+    <a href="http://h93145dn.beget.tech/index.html">
     Bootstarp site
     </a>
 </div>
