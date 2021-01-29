@@ -44,7 +44,7 @@
     </a>
      <br>
     <a href="https://chat-friends.netlify.app/">
-    Bootstarp site
+    Chat with chatengine.io and React
     </a>
 </div>
 
