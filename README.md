@@ -42,6 +42,10 @@
     <a href="http://h93145dn.beget.tech/index.html">
     Bootstarp site
     </a>
+     <br>
+    <a href="https://chat-friends.netlify.app/">
+    Bootstarp site
+    </a>
 </div>
 
 
