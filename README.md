@@ -48,7 +48,7 @@
     </a>
     <br>
     <a href="https://shopqqqqqqqqqqqq.herokuapp.com/">
-    Shop with admin panel(React, MongoDB, Node.js)
+    Shop with admin panel (React, MongoDB, Node.js)
     </a>
 </div>
 
